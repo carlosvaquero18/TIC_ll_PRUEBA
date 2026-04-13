@@ -28,3 +28,4 @@ if __name__ == "__main__":
     g1.agregar_empleado(e1)
     g1.agregar_empleado(e2)
     g1.mostrar()
+    e2.mostrar()
